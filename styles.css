@@ -1,0 +1,91 @@
+html {
+	background-image: url("../_images/pinkmarble.jpg");
+}
+.img{
+	   padding: 50px;
+    width: 50px;
+	align-content: center}
+.topnav {
+  background-color: black;
+  overflow: hidden;
+  padding-bottom: 2em;
+  padding-top: 2em;
+  text-align: center;
+	
+}
+.topnav a:hover {
+  background-color: ghostwhite;
+  color: black;
+}
+.topnav a {
+  float: left;
+  color: deeppink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+body {
+	width: 70%;
+	margin: 0 auto;
+	font: 100% Arial, Helvetica, sans-serif;
+	padding: 1em 50px;
+	background: none;
+	border-bottom: 10px solid black;
+}
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 2em;
+	font-weight: normal;
+	font-style: italic;
+	margin: 0 0 .4em;
+	color: #ddd;
+	background-color: black;
+	padding: 5px 10px;
+}
+
+h2 {
+	
+}
+p {
+	line-height: 1.6;
+	text-align: justify;
+	width: normal;
+	margin: 0;
+	margin-bottom: 1em;
+	
+}
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid deeppink; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+.container {
+  border-radius: 5px;
+  background-color: none;
+  padding: 20px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+	color: white;}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
