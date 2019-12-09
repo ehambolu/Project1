@@ -1,5 +1,5 @@
 html {
-	background-image: url("../_images/pinkmarble.jpg");
+	background-image: url(../images/purple-sky-1287142.jpg);
 }
 .img{
 	   padding: 50px;
@@ -19,7 +19,7 @@ html {
 }
 .topnav a {
   float: left;
-  color: deeppink;
+  color: mediumpurple;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -29,6 +29,8 @@ body {
 	width: 70%;
 	margin: 0 auto;
 	font: 100% Arial, Helvetica, sans-serif;
+	font-size:23px;
+	color: white;
 	padding: 1em 50px;
 	background: none;
 	border-bottom: 10px solid black;
@@ -58,7 +60,7 @@ p {
 input[type=text], select, textarea {
   width: 100%; 
   padding: 12px; 
-  border: 1px solid deeppink; 
+  border: 1px solid purple; 
   border-radius: 4px; 
   box-sizing: border-box; 
   margin-top: 6px; 
